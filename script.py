@@ -23,7 +23,7 @@ class script(object):
 <b>📢 Channel :</b> <a href='https://t.me/Tj_Bots'>𝗧𝗷 𝗕𝗼𝘁𝘀</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/Tj_Bots_Admin'>Admin</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @Tj_Bots"""
 
     DONATE_TXT = """🧑‍💻"""
 
