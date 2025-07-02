@@ -37,10 +37,10 @@ async def start(client, message):
     
     button = InlineKeyboardMarkup([
         [InlineKeyboardButton("📢 Updates", url="https://t.me/Tj_Bots"),
-        InlineKeyboardButton("💬 Support", url="https://t.me/Tj_Bots")],
+        InlineKeyboardButton("💬 Support", url="https://t.me/+60BPDQa_CdYyNzE0")],
         [InlineKeyboardButton("🛠️ Help", callback_data='help'),
         InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://t.me/The_Joker121_bot")]
+        [InlineKeyboardButton("🧑‍💻 Admin 🧑‍💻", url="https://t.me/Tj_Bots_Admin")]
         ])
     
     await message.reply_photo(
